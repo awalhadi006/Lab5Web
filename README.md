@@ -56,3 +56,17 @@
   ![Screenshot_171](https://user-images.githubusercontent.com/24362384/115954489-90fafd00-a51b-11eb-8762-4d2a976e3b2f.png)
   ![Screenshot_172](https://user-images.githubusercontent.com/24362384/115954493-93f5ed80-a51b-11eb-9c2f-15dc98d4b792.png)
   ![Screenshot_173](https://user-images.githubusercontent.com/24362384/115954495-948e8400-a51b-11eb-8879-d9df27c308ce.png)
+
+<b>Pembuatan Form</b>
+<br>Form Input
+
+![Screenshot_177](https://user-images.githubusercontent.com/24362384/116019954-8b163080-a66f-11eb-89fc-9a6be3707685.png)
+
+  
+  Jika kita coba masukkan nilainya genap :
+  
+  ![Screenshot_175](https://user-images.githubusercontent.com/24362384/116019799-396da600-a66f-11eb-9f3f-c87e48b6e988.png)
+
+  Jika kita coba masukkan nilainya ganjil :
+  
+  ![Screenshot_176](https://user-images.githubusercontent.com/24362384/116019812-41c5e100-a66f-11eb-94fa-398d67a2db91.png)
