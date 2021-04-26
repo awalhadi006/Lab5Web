@@ -62,7 +62,6 @@
 
 ![Screenshot_177](https://user-images.githubusercontent.com/24362384/116019954-8b163080-a66f-11eb-89fc-9a6be3707685.png)
 
-  
   Jika kita coba masukkan nilainya genap :
   
   ![Screenshot_175](https://user-images.githubusercontent.com/24362384/116019799-396da600-a66f-11eb-9f3f-c87e48b6e988.png)
@@ -70,3 +69,13 @@
   Jika kita coba masukkan nilainya ganjil :
   
   ![Screenshot_176](https://user-images.githubusercontent.com/24362384/116019812-41c5e100-a66f-11eb-94fa-398d67a2db91.png)
+
+  Form Button
+  
+  ![Screenshot_182](https://user-images.githubusercontent.com/24362384/116021021-94a09800-a671-11eb-8146-d712641c15e7.png)
+
+  Hasilnya :
+  ![Screenshot_179](https://user-images.githubusercontent.com/24362384/116021051-9e2a0000-a671-11eb-9fbb-be68c6332f85.png)
+  ![Screenshot_178](https://user-images.githubusercontent.com/24362384/116021113-bef25580-a671-11eb-9fe1-d897a8cd00a9.png)
+  ![Screenshot_180](https://user-images.githubusercontent.com/24362384/116021070-a5e9a480-a671-11eb-8ca5-68c1722870e9.png)
+  ![Screenshot_181](https://user-images.githubusercontent.com/24362384/116021081-ad10b280-a671-11eb-85c9-1c4852dc231c.png)
