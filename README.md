@@ -79,3 +79,9 @@
   ![Screenshot_178](https://user-images.githubusercontent.com/24362384/116021113-bef25580-a671-11eb-9fe1-d897a8cd00a9.png)
   ![Screenshot_180](https://user-images.githubusercontent.com/24362384/116021070-a5e9a480-a671-11eb-8ca5-68c1722870e9.png)
   ![Screenshot_181](https://user-images.githubusercontent.com/24362384/116021081-ad10b280-a671-11eb-85c9-1c4852dc231c.png)
+
+  <b>HTML DOM</b>
+  <br>Pilihan menggunakan checkBox dengan perhitungan otomatis
+  
+  ![Screenshot_183](https://user-images.githubusercontent.com/24362384/116182826-18788400-a747-11eb-8b8e-c35fbea9a95e.png)
+  ![Screenshot_184](https://user-images.githubusercontent.com/24362384/116182829-1adade00-a747-11eb-8df4-8a2ce4c4653b.png)
