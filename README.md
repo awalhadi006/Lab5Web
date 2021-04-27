@@ -97,3 +97,15 @@
  
  
  <h3>Jawaban</h3>
+ <ol>
+   <li> Berikut adalah script untuk melakukan validasi pada isian form (disini yang menggunakan validasi adalah kolom isian nama dan email).
+    
+   ![Screenshot_185](https://user-images.githubusercontent.com/24362384/116185934-cc304280-a74c-11eb-9da1-1df43c335d1a.png)
+   
+   <li> Jika kolom isian nama tidak kita isi :
+  
+   ![Screenshot_186](https://user-images.githubusercontent.com/24362384/116186017-fe41a480-a74c-11eb-87d2-79727a80b033.png)
+
+   <li> Jika kolom isian email tidak kita isi :
+  
+  ![Screenshot_187](https://user-images.githubusercontent.com/24362384/116186040-08fc3980-a74d-11eb-932b-5851d5f3ecf7.png)
