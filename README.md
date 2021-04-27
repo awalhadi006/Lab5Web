@@ -75,6 +75,7 @@
   ![Screenshot_182](https://user-images.githubusercontent.com/24362384/116021021-94a09800-a671-11eb-8146-d712641c15e7.png)
 
   Hasilnya :
+  
   ![Screenshot_179](https://user-images.githubusercontent.com/24362384/116021051-9e2a0000-a671-11eb-9fbb-be68c6332f85.png)
   ![Screenshot_178](https://user-images.githubusercontent.com/24362384/116021113-bef25580-a671-11eb-9fe1-d897a8cd00a9.png)
   ![Screenshot_180](https://user-images.githubusercontent.com/24362384/116021070-a5e9a480-a671-11eb-8ca5-68c1722870e9.png)
@@ -85,3 +86,14 @@
   
   ![Screenshot_183](https://user-images.githubusercontent.com/24362384/116182826-18788400-a747-11eb-8b8e-c35fbea9a95e.png)
   ![Screenshot_184](https://user-images.githubusercontent.com/24362384/116182829-1adade00-a747-11eb-8df4-8a2ce4c4653b.png)
+
+</li>
+</ol>
+
+<h3>Pertanyaan dan Tugas</h3>
+ <ol>
+    <li> Buat Script untuk melakukan validasi pada isian form.
+ </ol>
+ 
+ 
+ <h3>Jawaban</h3>
